@@ -28,6 +28,26 @@ If it can't connect, allow port 5555 through the host's firewall.
   - **G** Ghost: pass through snakes and walls for 6 seconds
   - **C** Cut: chop the other snake's length
 
+## Screenshots
+
+Blue's laptop is on the left, Orange's on the right.
+
+**Ready to start**
+
+![Both screens before the round starts](screenshots/ready.png)
+
+**Mid-game**
+
+![Both snakes have grown, and Blue has the speed power-up](screenshots/mid-game.png)
+
+**A power-up on the board**
+
+![A green S tile on the board](screenshots/power-up.png)
+
+**Round over**
+
+![Orange hit the wall and Blue wins 6 to 4](screenshots/round-over.png)
+
 ## Code
 
 | File | Job |
